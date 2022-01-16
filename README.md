@@ -7,7 +7,7 @@
 ## ⚡ It is no longer based on this source code. The completely rewritten bot available now on telegram
 
 - ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/NK?label=Repo%20Size)
-
+gh repo clone Dushsmanxroni/Natsuki
 <p align="center">
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
@@ -26,7 +26,7 @@
 </p>
 
 ![GitHub](https://img.shields.io/github/license/Sadew451/Natsuki)
-
+gh repo clone Dushsmanxroni/Natsuki
 - https://sadew451.github.io/Natsuki.Web/
 
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/open-book_1f4d6.png">
