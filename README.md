@@ -6,7 +6,7 @@
 
 ## ⚡ It is no longer based on this source code. The completely rewritten bot available now on telegram
 
-- ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/NK?label=Repo%20Size)
+- ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/NK?label=Repo%20Size)gh repo clone Dushsmanxroni/Natsukilegend
 gh repo clone Dushsmanxroni/Natsuki
 <p align="center">
     <a href="https://python.org">
@@ -26,9 +26,9 @@ gh repo clone Dushsmanxroni/Natsuki
 </p>
 
 ![GitHub](https://img.shields.io/github/license/Sadew451/Natsuki)
-gh repo clone Dushsmanxroni/Natsuki
-- https://sadew451.github.io/Natsuki.Web/
 
+- https://sadew451.github.io/Natsuki.Web/
+gh repo clone Dushsmanxroni/Natsukilegend
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/open-book_1f4d6.png">
 
 <h3 align="center"> 
@@ -52,7 +52,7 @@ gh repo clone Dushsmanxroni/Natsuki
 ### Deployment Dont Deploy on this URL `Deploy on Brach`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki.git)
-
+gh repo clone Dushsmanxroni/Natsukilegendgh repo clone Dushsmanxroni/Natsukilegend
 
 # Deploy Guide
 
@@ -71,7 +71,7 @@ gh repo clone Dushsmanxroni/Natsuki
 # 🏃‍♂️ Deploy 
 ## Connect Github Cant Deploy On Url
 
-<a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1B72w"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://www.youtube.com/channel/UCdSBUUQ1v0_IIElBR_1
 
 # ⚡ Support
 <a href="https://t.me/NatsukiSupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
@@ -81,7 +81,7 @@ gh repo clone Dushsmanxroni/Natsuki
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/Sadew451/Natsuki
-$ cd Natsuki
+$ cd Natsukigh repo clone Dushsmanxroni/Natsukilegend
 # Upgrade sources
 $ bash deploy.sh
 # Install All Requirements 
